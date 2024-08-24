@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <!-- head definitions go here -->
+       <h1>Hello World</h1>
     </head>
     <body>
         <!-- the content goes here -->
