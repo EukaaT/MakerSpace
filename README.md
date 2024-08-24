@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+
 <html>
     <head>
        <h1>Hello World</h1>
     </head>
     <body>
-        <!-- the content goes here -->
+        <h1>Hola sofi<h1>
     </body>
 </html>
