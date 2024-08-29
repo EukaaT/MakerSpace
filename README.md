@@ -13,16 +13,16 @@
             <br>
             <label for="Colors"> Which Color:</label>
             <select id="colors" name="colors">
-            <option value="White">2XL</option>
-            <option value="Black">XL</option>
-            <option value="Navy">M</option>
+            <option value="White">White</option>
+            <option value="Black">Black</option>
+            <option value="Navy">Navy</option>
             <br>
             <label for="sizes"> Which Size:</label>
             <select id="sizes" name="Sizes">
             <option value="2XL">2XL</option>
             <option value="XL">XL</option>
             <option value="M">M</option>
-            <option value="S">s</option>
+            <option value="S">S</option>
             </select>
             <br>
             <label for="Amount"> Amount:</label>
