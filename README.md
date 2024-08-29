@@ -11,8 +11,8 @@
             <label for="name"> Name:</label>
             <input type="text" id="name" name="name">
             <br>
-            <label for="Colors"> Which Color:</label>
-            <select id="colors" name="colors">
+            <label for="Color"> Which Color:</label>
+            <select id="color" name="color">
             <option value="White">White</option>
             <option value="Black">Black</option>
             <option value="Navy">Navy</option>
