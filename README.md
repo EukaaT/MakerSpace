@@ -6,12 +6,18 @@
     </head>
     <body>
         <h1> Please fill out the following form </h1>
+        <h2>If you get more than one color, or different sizes, please fill out for each combiantion color + size taken from the storage </h2>
         <form>
             <label for="name"> Name:</label>
             <input type="text" id="name" name="name">
-            <label for="size"> Sizes:</label>
-            <input type="text" id="size" name="size">
-            <label for="cars"> Which sizes:</label>
+            <br>
+            <label for="Colors"> Which sizes:</label>
+            <select id="colors" name="colors">
+            <option value="White">2XL</option>
+            <option value="Black">XL</option>
+            <option value="Navy">M</option>
+            <br>
+            <label for="sizes"> Which sizes:</label>
             <select id="sizes" name="Sizes">
             <option value="2XL">2XL</option>
             <option value="XL">XL</option>
