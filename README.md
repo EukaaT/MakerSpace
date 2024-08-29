@@ -11,7 +11,7 @@
             <input type="text" id="name" name="name">
             <label for="size"> Sizes:</label>
             <input type="text" id="size" name="size">
-            <label for="cars">Choose a car:</label>
+            <label for="cars"> Which sizes:</label>
             <select id="sizes" name="Sizes">
             <option value="2XL">2XL</option>
             <option value="XL">XL</option>
