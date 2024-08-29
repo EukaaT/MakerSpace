@@ -15,6 +15,7 @@
             <select id="colors" name="colors">
             <option value="White">White</option>
             <option value="Black">Black</option>
+            <option value="Navy">Navy</option>
             </select>
             <br>
             <label for="sizes"> Which Size:</label>
