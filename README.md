@@ -5,7 +5,7 @@
         <h2> list of links.... </h2>
     </head>
     <body>
-        <h1>Hola sofi</h1>
+        <h1> Please fill out the following form </h1>
         <form>
             <label for="fname">First name:</label>
             <input type="text" id="fname" name="fname">
