@@ -7,8 +7,10 @@
     <body>
         <h1> Please fill out the following form </h1>
         <form>
-            <label for="fname">First name:</label>
-            <input type="text" id="fname" name="fname">
+            <label for="name"> Name:</label>
+            <input type="text" id="name" name="name">
+            <label for="size"> Sizes:</label>
+            <input type="text" id="size" name="size">
         </form>
     </body>
 </html>
