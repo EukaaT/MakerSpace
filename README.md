@@ -4,7 +4,7 @@
            <p1> If this is not the correct item, please look for the correct check out </p1>
         <p1> list of links.... </p1>
     </head>
-    <body style="background-color:#717DA2;">
+    <body style="background-color:#DEE4F5;">
         <h1> Please fill out the following form </h1>
         <p2>If you get more than one color, or different sizes, please fill out for each combiantion color + size taken from the storage </p2>
         <form style="text-align:center;" action="/action_page.php">
