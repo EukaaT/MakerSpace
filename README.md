@@ -11,19 +11,22 @@
             <label for="name"> Name:</label>
             <input type="text" id="name" name="name">
             <br>
-            <label for="Colors"> Which sizes:</label>
+            <label for="Colors"> Which Color:</label>
             <select id="colors" name="colors">
             <option value="White">2XL</option>
             <option value="Black">XL</option>
             <option value="Navy">M</option>
             <br>
-            <label for="sizes"> Which sizes:</label>
+            <label for="sizes"> Which Size:</label>
             <select id="sizes" name="Sizes">
             <option value="2XL">2XL</option>
             <option value="XL">XL</option>
             <option value="M">M</option>
             <option value="S">s</option>
             </select>
+            <br>
+            <label for="Amount"> Amount:</label>
+            <input type="text" id="Amount" name="Amount">
         </form>
     </body>
 </html>
