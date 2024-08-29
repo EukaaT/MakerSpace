@@ -1,13 +1,13 @@
 <html>
     <head>
            <h1> Check out T-Shirts</h1>
-           <h2> If this is not the correct item, please look for the correct check out </h2>
-        <h2> list of links.... </h2>
+           <p1> If this is not the correct item, please look for the correct check out </p1>
+        <p1> list of links.... </p1>
     </head>
     <body style="background-color:#717DA2;">
         <h1> Please fill out the following form </h1>
-        <h2>If you get more than one color, or different sizes, please fill out for each combiantion color + size taken from the storage </h2>
-        <form style="text-align:center;" >
+        <p2>If you get more than one color, or different sizes, please fill out for each combiantion color + size taken from the storage </p2>
+        <form style="text-align:center;" action="/action_page.php">
             <label for="name"> Name:</label>
             <input type="text" id="name" name="name">
             <br>
@@ -28,6 +28,7 @@
             <br>
             <label for="Amount"> Amount:</label>
             <input type="text" id="Amount" name="Amount">
+            <input type="submit" value="Submit">
         </form>
     </body>
 </html>
