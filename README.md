@@ -4,10 +4,10 @@
            <h2> If this is not the correct item, please look for the correct check out </h2>
         <h2> list of links.... </h2>
     </head>
-    <body>
+    <body style="background-color:powderblue;">
         <h1> Please fill out the following form </h1>
         <h2>If you get more than one color, or different sizes, please fill out for each combiantion color + size taken from the storage </h2>
-        <form>
+        <form style="text-align:center;" >
             <label for="name"> Name:</label>
             <input type="text" id="name" name="name">
             <br>
