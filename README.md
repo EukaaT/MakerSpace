@@ -4,7 +4,7 @@
            <h2> If this is not the correct item, please look for the correct check out </h2>
         <h2> list of links.... </h2>
     </head>
-    <body style="background-color:powderblue;">
+    <body style="background-color:#717DA2;">
         <h1> Please fill out the following form </h1>
         <h2>If you get more than one color, or different sizes, please fill out for each combiantion color + size taken from the storage </h2>
         <form style="text-align:center;" >
