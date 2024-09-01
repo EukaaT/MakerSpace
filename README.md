@@ -7,7 +7,7 @@
     <body style="background-color:#DEE4F5;">
         <h1> Please fill out the following form </h1>
         <p2>If you get more than one color, or different sizes, please fill out for each combiantion color + size taken from the storage </p2>
-        <form style="text-align:center;" action="/action_page.php">
+        <form style="text-align:center;" action="includes.php" method= "post">
             <label for="name"> Name:</label>
             <input type="text" id="name" name="name">
             <br>
